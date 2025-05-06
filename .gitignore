@@ -213,3 +213,4 @@ package-lock.json
 __pycache__
 
 .vscode
+venv
